@@ -3,7 +3,35 @@
 ## Sub-Title
 
 asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf[^1] asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf[[1]](#first-reference) asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf[[1]](#first-reference) asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+
+## Sub-Title
+
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf[[2]](#second-reference) asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+
+## Sub-Title
+
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf[[3]](#third-reference) asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+
+## Sub-Title
+
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+asdfasdfasdf asdfasdfasd[[4]](#fourth-reference) asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
 asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
 asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
 asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
@@ -18,34 +46,12 @@ asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
 asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
 asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
 asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-
-## Sub-Title
-
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
 asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
 
-## Sub-Title
+###### First Reference
 
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
+###### Second Reference
 
-## Sub-Title
+###### Third Reference
 
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-asdfasdfasdf asdfasdfasd asdfasdf asdf aasdfasdfasdf asdfasdf asdfasdf asdf
-
-[^1]: This is the first footnote.
+###### Fourth Reference
